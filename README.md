@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou a Sarah! <img src="https://media.giphy.com/media/fSGrpj2wJynDwgftc7/giphy.gif?cid=ecf05e47gv5f7ukbcnnxd5pi9kijd5e3b56k0hakqn591ogv&rid=giphy.gif&ct=s" width="50">
+## 👋 Olá, eu sou a Sarah!
 
 
 Mãe de gato, desenvolvedora front-end e estusiasta de back.
