@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou a Sarah!
 
 
-Mãe de gato, desenvolvedora front-end e estusiasta de back.
+Mãe de gato e desenvolvedora front-end.
 
 <hr>
 
@@ -38,16 +38,6 @@ Mãe de gato, desenvolvedora front-end e estusiasta de back.
 </div>
 
 <hr>
-
-```javascript
-const sarah = {
-  pronouns: "she" || "her",
-  age: "25",
-  sign: "pisces",
-  city: "Florianópolis-SC",
-  cats: [Oliver, Sansa, Amélia, Sirius],
-}
-```
 
 <!---
 srhgeorgia/srhgeorgia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
