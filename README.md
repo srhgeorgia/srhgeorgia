@@ -1,11 +1,9 @@
 ## 👋 Olá, eu sou a Sarah!
 
 
-Mãe de gato e desenvolvedora front-end.
+Mãe de gato e desenvolvedora front-end a quase dois anos. 
 
 <hr>
-
-Sou desenvolvedora front end a quase dois anos. 
 
 Minhas skills são: HTML, CSS, React.js, Typescript, Styled Components, Material UI, SASS, Node.js, Javascript puro, media queries e bootstrap. Também possuo conhecimento em Angular, Vue, UI e UX, apesar de não trabalhar diretamente com eles. 
 
