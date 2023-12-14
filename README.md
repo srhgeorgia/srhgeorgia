@@ -5,32 +5,13 @@ Mãe de gato e desenvolvedora front-end.
 
 <hr>
 
-## Ferramentas e Tecnologias: <img src="https://media.giphy.com/media/UQsHPXWUijXGwdEGeZ/giphy.gif?cid=ecf05e47yg8ptjwotii05ygoqrvvsuqp27o7d8duy3asxqaf&rid=giphy.gif&ct=s" width="50">
+Sou desenvolvedora front end a quase dois anos. 
 
-<div style="display: flex;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="35px" width="55px"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="35px" width="55px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35px" width="55px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="35px" width="55px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35px" width="55px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="35px" width="55px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35px" width="55px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="35px" width="55px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35px" width="55px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="35px" width="55px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35px" width="55px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35px" width="55px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="35px" width="55px"/>
- 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="35px" width="55px"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" height="35px" width="55px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35px" width="55px"/>  
+Minhas skills são: HTML, CSS, React.js, Typescript, Styled Components, Material UI, SASS, Node.js, Javascript puro, media queries e bootstrap. Também possuo conhecimento em Angular, Vue, UI e UX, apesar de não trabalhar diretamente com eles. 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="35px" width="55px"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="35px" width="55px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" height="35px" width="55px"/>        
-</div>
+Em questão de back end, estudo Java e MySql no Senac, possuo conhecimento em API's, principalmente em Fetch. Também trabalho com AWS, e Entitys do Backstage. 
 
+Em versionamento de código utilizo Git, e tenho cerimônias diárias com Daily, mexendo com Scrum e Kanban.
 <hr>
 
 <!---
