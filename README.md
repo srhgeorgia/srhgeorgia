@@ -9,7 +9,7 @@ I currently work with the React framework, combining Typescript, Javascript, HTM
 
 I also study other Frameworks such as Angular and Vue, and have knowledge in UI and UX.
 
-I want to work as a Full Stack Developer, and for this reason I have knowledge of Java, Spring Boot, MySQL, and study Python.
+I want to work as a Full Stack Developer, and for this reason I have knowledge of Java, Spring Boot, SQL, and study Python.
 
 <hr>
 
