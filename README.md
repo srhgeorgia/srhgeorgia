@@ -1,15 +1,14 @@
-## 👋 Olá, eu sou a Sarah!
+## 👋 Hi, I'm Sarah!
 
 
-Mãe de gato e desenvolvedora front-end a quase dois anos. 
+Cat mom and front-end developer for almost two years.
 
 <hr>
 
-Minhas skills são: HTML, CSS, React.js, Typescript, Styled Components, Material UI, SASS, Node.js, Javascript puro, media queries e bootstrap. Também possuo conhecimento em Angular, Vue, UI e UX, apesar de não trabalhar diretamente com eles. 
+I currently work with the React framework, combining Typescript, Javascript, HTML, CSS, Styled Components, Material UI, Sass, Node, API, AWS, Docker, projects on GitHub and Bitbucket, Scrum and Kanban, and code versioning with GIT.
+I also study other Frameworks such as Angular and Vue, and have knowledge in UI and UX.
+I want to work as a Full Stack Developer, and for this reason I have knowledge of Java, Spring Boot, MySQL, and study Python.
 
-Em questão de back end, estudo Java e MySql no Senac, possuo conhecimento em API's, principalmente em Fetch. Também trabalho com AWS, e Entitys do Backstage. 
-
-Em versionamento de código utilizo Git, e tenho cerimônias diárias com Daily, mexendo com Scrum e Kanban.
 <hr>
 
 <!---
