@@ -1,8 +1,7 @@
 ## 👋 Hi, I'm Sarah!
 
 
-👩‍💻 Passionate about solving complex problems and building exceptional digital experiences. 
-
+👩‍💻 Apaixonado por resolver problemas complexos e construir experiências digitais excepcionais.
 
 <!---
 srhgeorgia/srhgeorgia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
