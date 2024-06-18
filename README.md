@@ -1,11 +1,8 @@
 ## 👋 Hi, I'm Sarah!
 
 
-<hr>
-
 👩‍💻 Passionate about solving complex problems and building exceptional digital experiences. 
 
-<hr>
 
 <!---
 srhgeorgia/srhgeorgia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
