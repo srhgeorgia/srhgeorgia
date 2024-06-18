@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Sarah!
+## 👋 Hi!
 
 
 👩‍💻 Apaixonado por resolver problemas complexos e construir experiências digitais excepcionais.
